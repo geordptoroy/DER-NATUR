@@ -45338,6 +45338,10 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-sheet-1 {
   min-height: 329px;
 }
+
+.u-footer .u-btn-1 {
+  margin-bottom: 60px;
+}
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
     min-height: 271px;
